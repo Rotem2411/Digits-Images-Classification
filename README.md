@@ -61,6 +61,7 @@ Test: ![image](https://user-images.githubusercontent.com/116814148/227368588-433
 
 
 4)	For each classification result, the class with the highest probability is returned. Plot a histogram of the accuracies of the test examples for correctly and incorrectly classified objects. 
+5)	
 ![image](https://user-images.githubusercontent.com/116814148/227368640-40a7211f-a940-4620-8942-737d1f5f90ec.png)
 ![image](https://user-images.githubusercontent.com/116814148/227368653-e50bfd1e-cbc6-4b82-b4ca-a7809bc1e5cc.png)
 
