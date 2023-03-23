@@ -31,6 +31,7 @@ Test: 	![image](https://user-images.githubusercontent.com/116814148/227368379-5b
 
 
 Changing the optimizer to Adam with learning rate at 0.01
+
 Train: ![image](https://user-images.githubusercontent.com/116814148/227368400-a1626d04-134d-477e-b56d-d1e2b65bb1a1.png)
 
 Test: ![image](https://user-images.githubusercontent.com/116814148/227368415-5f7fa996-e9c3-43a7-9310-bfe74682df3b.png)
