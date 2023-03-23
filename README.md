@@ -103,6 +103,7 @@ The classifier is not doing too much well when it comes to something that he is 
 What you should do is take the fashion classifier, build from it 100 classifiers and see if this method works. Try this for several values of p. Produce graphical results showing the confidence of the classifier for the test examples where the classifier made a correct classification and for the test examples where the classifier made an incorrect classification. What are your conclusions from this suggested method?  Note, as far as I know there is no code for using dropout in the test step, so you will have to write it yourself. 
 
 By having 1% precent dropout the plotting results were:
+
 ![image](https://user-images.githubusercontent.com/116814148/227368922-d9eb9635-405f-43c2-849b-62a82032245d.png)
 ![image](https://user-images.githubusercontent.com/116814148/227368931-0a1c238c-4553-4841-aca4-e01abff0d09d.png)
 
