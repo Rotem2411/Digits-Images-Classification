@@ -47,6 +47,7 @@ Test: ![image](https://user-images.githubusercontent.com/116814148/227368465-4fe
 On Fashion DataSet
 
 Changing the activation function to SIGMOID, we got: 
+
 Train: ![image](https://user-images.githubusercontent.com/116814148/227368495-ece45cee-4bc7-46b6-a898-4835340c75e4.png)
 
 Test:![image](https://user-images.githubusercontent.com/116814148/227368519-a6a5bd73-43b2-4e05-a873-919c6bdc6206.png)
