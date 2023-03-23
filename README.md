@@ -88,15 +88,6 @@ Some example of the whole plotting image:
 ![image](https://user-images.githubusercontent.com/116814148/227368883-1b21c43e-f115-4fcc-800d-d165143978ad.png)
 ![image](https://user-images.githubusercontent.com/116814148/227368899-225385fc-1548-4154-b9ad-f9834c907afb.png)
 
-
-
-
-
-
-
-
-
-
 The classifier is not doing too much well when it comes to something that he is not familiar with.
 
 7)	One of the major problems in DL is to know when the classifier makes a mistake. One idea is to use post-training dropout. That is after the training generate K classifiers which are based on the trained classifier for which dopout has been applied with a certain probability p. For this you have to randomly change p percent of the weights to 0 and update the other weights as explained in the powerpoint presentation where dropout is explained. Then the confidence of the classifier will be the percent of classifiers that voted for the same result.
