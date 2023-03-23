@@ -4,7 +4,8 @@
 
 1)	Run https://www.tensorflow.org/tutorials/keras/classification . This classifier works on fashion items.
 2)	Convert it to recognize digits. There is also an minst dataset for digits.
- 
+ ![image](https://user-images.githubusercontent.com/116814148/227368056-50339ebe-83b5-410a-8cb4-70d23389f176.png)
+
 3)	Make modifications to the networks and report the train and test accuracies as you modify the networks.  You can also change the activation function.
 On Digits DataSet
 
